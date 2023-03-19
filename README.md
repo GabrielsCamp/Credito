@@ -11,4 +11,4 @@ Concessão de Crédito (Total) -
 Concessão de Crédito (Pessoa Física) -
 Concessão de Crédito (Pessoa Juridica) -
 Inadimplência (Pessoa Física) -
-Inadimplência (Pessoa Juridica) -
+Inadimplência (Pessoa Juridica) 
