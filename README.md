@@ -1,7 +1,7 @@
 # Credito
 Script contendo extração de dados e plots pertinentes para análise do cenário macro do crédito no Brasil : 
 
-Selic 
+Selic -
 IPCA (variação mensal) -
 IPCA (acumulado em 12 meses) -
 Índice de Custo de Crédito (Total) -
